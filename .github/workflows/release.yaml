@@ -22,5 +22,4 @@ jobs:
          WITH_V: true
          DEFAULT_BUMP: patch
          RELEASE_BRANCHES: main
-         TAG_CONTEXT: branch
          DEFAULT_BRANCH: main
